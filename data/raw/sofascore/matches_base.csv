@@ -13212,7 +13212,7 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 14365005,eVsxtj,2025-09-19 15:30:00+00:00,2025-09-19 18:30:00+03:00,Ykkosliiga,527,Finland,JäPS,23422,TPS,2254,Ended,finished,1,1,3,Draw,Ykkosliiga 2025,24,True
 14365003,yVsiYK,2025-09-19 15:30:00+00:00,2025-09-19 18:30:00+03:00,Ykkosliiga,527,Finland,KäPa,2273,SJK Akatemia,89908,Ended,finished,3,1,1,Home,Ykkosliiga 2025,24,True
 14365004,ttcsAkv,2025-09-20 11:00:00+00:00,2025-09-20 14:00:00+03:00,Ykkosliiga,527,Finland,PK-35,50525,HJK Klubi 04,5918,Ended,finished,2,1,1,Home,Ykkosliiga 2025,24,True
-14671791,RUsUU,2025-09-20 15:00:00+00:00,2025-09-20 18:00:00+03:00,Suomen Cup,122,Finland,HJK,2242,KuPS,2244,Ended,finished,1,0,1,Home,Suomen Cup 2025,29,
+14671791,RUsUU,2025-09-20 15:00:00+00:00,2025-09-20 18:00:00+03:00,Suomen Cup,122,Finland,HJK,2242,KuPS,2244,Ended,finished,1,0,1,Home,Suomen Cup 2025,29,True
 14217518,kIsLI,2025-09-19 17:30:00+00:00,2025-09-19 20:30:00+03:00,National,950,France,Ajaccio,1660,Dijon,1686,Canceled,canceled,,,,,National 25/26,7,
 14217517,BHpsRVy,2025-09-19 17:30:00+00:00,2025-09-19 20:30:00+03:00,National,950,France,Aubagne FC,59792,FC Versailles 78,39126,Ended,finished,1,1,3,Draw,National 25/26,7,True
 14217521,gbosZbJb,2025-09-19 17:30:00+00:00,2025-09-19 20:30:00+03:00,National,950,France,Bourg-en-Bresse,35056,Quevilly - Rouen Métropole,210099,Ended,finished,0,3,2,Away,National 25/26,7,True
@@ -14062,7 +14062,7 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 13554501,fRcsPQYb,2025-09-21 14:00:00+00:00,2025-09-21 17:00:00+03:00,Premium Liiga,618,Estonia,Pärnu JK Vaprus,247090,Tallinna Kalev,7105,Ended,finished,1,0,1,Home,Premium Liiga 2025,29,True
 14600169,WUsibc,2025-09-21 15:30:00+00:00,2025-09-21 18:30:00+03:00,"Veikkausliiga, Relegation Round",75354,Finland,IFK Mariehamn,5058,VPS,2246,Ended,finished,2,1,1,Home,Veikkausliiga 2025,1,True
 14365004,ttcsAkv,2025-09-20 11:00:00+00:00,2025-09-20 14:00:00+03:00,Ykkosliiga,527,Finland,PK-35,50525,HJK Klubi 04,5918,Ended,finished,2,1,1,Home,Ykkosliiga 2025,24,True
-14671791,RUsUU,2025-09-20 15:00:00+00:00,2025-09-20 18:00:00+03:00,Suomen Cup,122,Finland,HJK,2242,KuPS,2244,Ended,finished,1,0,1,Home,Suomen Cup 2025,29,
+14671791,RUsUU,2025-09-20 15:00:00+00:00,2025-09-20 18:00:00+03:00,Suomen Cup,122,Finland,HJK,2242,KuPS,2244,Ended,finished,1,0,1,Home,Suomen Cup 2025,29,True
 13554130,uicscWo,2025-09-20 13:00:00+00:00,2025-09-20 16:00:00+03:00,Erovnuli Liga,3012,Georgia,FC Kolkheti-1913 Poti,37302,FC Torpedo Kutaisi,5419,Ended,finished,2,4,2,Away,Erovnuli Liga 2025,25,True
 13554129,pMosvDZb,2025-09-20 16:00:00+00:00,2025-09-20 19:00:00+03:00,Erovnuli Liga,3012,Georgia,Gareji,248920,FC Gagra,36865,Ended,finished,2,2,3,Draw,Erovnuli Liga 2025,25,True
 14108136,WabsFdb,2025-09-20 12:00:00+00:00,2025-09-20 15:00:00+03:00,3. Liga,8343,Germany,Alemannia Aachen,2546,SV Waldhof Mannheim,2680,Ended,finished,3,2,1,Home,3. Liga 25/26,7,True
@@ -15158,7 +15158,7 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 14274809,xrcsIrc,2025-09-23 17:00:00+00:00,2025-09-23 20:00:00+03:00,Regionalliga Bavaria,21299,Germany Amateur,SpVgg Greuther Fürth II,5883,1. FC Nürnberg II,5872,Ended,finished,1,2,2,Away,Regionalliga Bavaria 25/26,10,
 14274808,fbbsQpc,2025-09-23 17:00:00+00:00,2025-09-23 20:00:00+03:00,Regionalliga Bavaria,21299,Germany Amateur,SpVgg Unterhaching,2555,SV Viktoria Aschaffenburg,5791,Ended,finished,2,1,1,Home,Regionalliga Bavaria 25/26,10,
 14274811,rKjspcF,2025-09-23 17:00:00+00:00,2025-09-23 20:00:00+03:00,Regionalliga Bavaria,21299,Germany Amateur,TSV Aubstadt,75115,FV Illertissen,24267,Ended,finished,3,5,2,Away,Regionalliga Bavaria 25/26,10,
-14214696,rrNbstOWd,2025-09-25 08:30:00+00:00,2025-09-25 11:30:00+03:00,Indonesia Super League,4113,Indonesia,Bhayangkara Presisi Indonesia FC,220867,Malut United FC,491968,Ended,finished,0,1,2,Away,Indonesia Super League 25/26,7,
+14214696,rrNbstOWd,2025-09-25 08:30:00+00:00,2025-09-25 11:30:00+03:00,Indonesia Super League,4113,Indonesia,Bhayangkara Presisi Indonesia FC,220867,Malut United FC,491968,Ended,finished,0,1,2,Away,Indonesia Super League 25/26,7,True
 14302921,Hfbsbwhd,2025-09-23 16:30:00+00:00,2025-09-23 19:30:00+03:00,"Serie C, Group B",37885,Italy,Campobasso FC,393551,Gubbio,2782,Ended,finished,2,0,1,Home,"Serie C, Group B 25/26",6,True
 14302923,efbsIfb,2025-09-23 16:30:00+00:00,2025-09-23 19:30:00+03:00,"Serie C, Group B",37885,Italy,Forlì,2783,Vis Pesaro,2754,Ended,finished,3,1,1,Home,"Serie C, Group B 25/26",6,True
 14302924,OfbsMoRb,2025-09-23 16:30:00+00:00,2025-09-23 19:30:00+03:00,"Serie C, Group B",37885,Italy,Guidonia Montecelio 1937,230737,Rimini,2789,Ended,finished,1,0,1,Home,"Serie C, Group B 25/26",6,True
@@ -15238,7 +15238,7 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 14223664,TXswOed,2025-09-23 18:45:00+00:00,2025-09-23 21:45:00+03:00,Challenge Cup,1520,Scotland,The Spartans FC,2393,Dundee United B U21,386971,Ended,finished,1,0,1,Home,Challenge Cup 25/26,4,
 14223674,cAksAOed,2025-09-24 18:45:00+00:00,2025-09-24 21:45:00+03:00,Challenge Cup,1520,Scotland,Edinburgh City F.C.,26252,Celtic B U21,386975,Ended,finished,2,1,1,Home,Challenge Cup 25/26,4,
 14223668,BXsBOed,2025-09-24 18:45:00+00:00,2025-09-24 21:45:00+03:00,Challenge Cup,1520,Scotland,Hamilton Academical,2376,St. Mirren B U21,386976,Ended,finished,3,1,1,Home,Challenge Cup 25/26,4,
-14689646,NkbsHGn,2025-09-25 11:30:00+00:00,2025-09-25 14:30:00+03:00,Premier League,58,Singapore,Tanjong Pagar United,3038,Young Lions,34082,Ended,finished,5,1,1,Home,Premier League 25/26,3,
+14689646,NkbsHGn,2025-09-25 11:30:00+00:00,2025-09-25 14:30:00+03:00,Premier League,58,Singapore,Tanjong Pagar United,3038,Young Lions,34082,Ended,finished,5,1,1,Home,Premier League 25/26,3,True
 13292559,nKsCK,2025-09-24 17:00:00+00:00,2025-09-24 20:00:00+03:00,Superettan,27,Sweden,IK Brage,1777,GIF Sundsvall,1763,Ended,finished,0,1,2,Away,Superettan 2025,24,True
 13292560,mLskM,2025-09-24 17:00:00+00:00,2025-09-24 20:00:00+03:00,Superettan,27,Sweden,IK Oddevold,1860,Falkenbergs FF,1812,Ended,finished,2,2,3,Draw,Superettan 2025,24,True
 13292561,xKsQM,2025-09-24 17:00:00+00:00,2025-09-24 20:00:00+03:00,Superettan,27,Sweden,Landskrona BoIS,1772,Kalmar FF,1891,Ended,finished,0,0,3,Draw,Superettan 2025,24,True
@@ -15300,7 +15300,7 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 13975522,NlrbsFmme,2025-09-24 15:10:00+00:00,2025-09-24 18:10:00+03:00,King's Cup,42021,Saudi Arabia,Al-Jubail Club,530630,Al-Riyadh,168088,Ended,finished,0,1,2,Away,Kings Cup 25/26,6,
 13975514,yvxsdkKb,2025-09-24 15:45:00+00:00,2025-09-24 18:45:00+03:00,King's Cup,42021,Saudi Arabia,Al-Jabalain,213003,Al-Fateh,56023,Ended,finished,1,2,2,Away,Kings Cup 25/26,6,
 13975535,CvxsjKV,2025-09-24 18:00:00+00:00,2025-09-24 21:00:00+03:00,King's Cup,42021,Saudi Arabia,Al-Orobah,114259,Al-Qadsiah,56027,Ended,finished,1,3,2,Away,Kings Cup 25/26,6,
-14596322,GEWdsXCZi,2025-09-26 11:00:00+00:00,2025-09-26 14:00:00+03:00,"UEFA Youth League, Knockout stage",47397,Europe,FC Ordabasy U19,1123897,FC Dinamo Minsk U19,491481,Not started,notstarted,,,,,UEFA Youth League 25/26,1,
+14596322,GEWdsXCZi,2025-09-26 11:00:00+00:00,2025-09-26 14:00:00+03:00,"UEFA Youth League, Knockout stage",47397,Europe,FC Ordabasy U19,1123897,FC Dinamo Minsk U19,491481,Ended,finished,1,1,3,Draw,UEFA Youth League 25/26,1,
 13984913,XNsbO,2025-09-25 00:00:00+00:00,2025-09-25 03:00:00+03:00,"Liga MX, Apertura",28,Mexico,Cruz Azul,1947,Querétaro FC,1951,Ended,finished,2,2,3,Draw,"Liga MX, Apertura 2025",10,
 13984915,PNsZN,2025-09-25 01:00:00+00:00,2025-09-25 04:00:00+03:00,"Liga MX, Apertura",28,Mexico,Tigres UANL,1940,Atlas FC,1949,Ended,finished,2,0,1,Home,"Liga MX, Apertura 2025",10,
 13984917,GNsHN,2025-09-25 02:00:00+00:00,2025-09-25 05:00:00+03:00,"Liga MX, Apertura",28,Mexico,CD Toluca,1931,CF Monterrey,1932,Ended,finished,6,2,1,Home,"Liga MX, Apertura 2025",10,
@@ -15325,8 +15325,8 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 14138328,Blbsbmb,2025-09-25 14:00:00+00:00,2025-09-25 17:00:00+03:00,1. Lig,101,Turkey,Sivasspor,3076,Adana Demirspor,3101,Ended,finished,5,0,1,Home,1. Lig 25/26,7,
 14138329,cZbslPHb,2025-09-25 17:00:00+00:00,2025-09-25 20:00:00+03:00,1. Lig,101,Turkey,Amed Sportif Faaliyetler,207011,Sarıyer,4952,Ended,finished,2,0,1,Home,1. Lig 25/26,7,
 14138333,FlbsHPc,2025-09-25 17:00:00+00:00,2025-09-25 20:00:00+03:00,1. Lig,101,Turkey,Pendikspor,7032,Sakaryaspor,3080,Ended,finished,4,1,1,Home,1. Lig 25/26,7,
-13522636,yrbsLdLb,2025-09-26 10:00:00+00:00,2025-09-26 13:00:00+03:00,Chinese Super League,652,China,Shanghai Shenhua,3373,Meizhou Hakka,215186,Not started,notstarted,,,,,Chinese Super League 2025,26,
-13522637,BrbsRZOd,2025-09-26 11:35:00+00:00,2025-09-26 14:35:00+03:00,Chinese Super League,652,China,Beijing Guoan,3376,Dalian Yingbo FC,474992,Not started,notstarted,,,,,Chinese Super League 2025,26,
+13522636,yrbsLdLb,2025-09-26 10:00:00+00:00,2025-09-26 13:00:00+03:00,Chinese Super League,652,China,Shanghai Shenhua,3373,Meizhou Hakka,215186,Ended,finished,6,1,1,Home,Chinese Super League 2025,26,
+13522637,BrbsRZOd,2025-09-26 11:35:00+00:00,2025-09-26 14:35:00+03:00,Chinese Super League,652,China,Beijing Guoan,3376,Dalian Yingbo FC,474992,Ended,finished,4,2,1,Home,Chinese Super League 2025,26,
 14569989,cxcsnxc,2025-09-25 01:00:00+00:00,2025-09-25 04:00:00+03:00,"Primera A, Clausura",19236,Colombia,Deportivo Pasto,6113,América de Cali,6102,Ended,finished,0,2,2,Away,"Primera A, Clausura 2025",3,
 14570884,wmbstfo,2025-09-24 16:45:00+00:00,2025-09-24 19:45:00+03:00,Ekstraklasa,64,Poland,Raków Częstochowa,35268,Lech Poznań,3121,Ended,finished,2,2,3,Draw,Ekstraklasa 25/26,6,
 14682952,gmbsQdd,2025-09-24 19:00:00+00:00,2025-09-24 22:00:00+03:00,Ekstraklasa,64,Poland,Legia Warszawa,3106,Jagiellonia Białystok,7691,Ended,finished,0,0,3,Draw,Ekstraklasa 25/26,6,
@@ -15370,16 +15370,16 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 14297651,yHosKyT,2025-09-25 17:00:00+00:00,2025-09-25 20:00:00+03:00,Frauen-Bundesliga,810,Germany,Bayer Leverkusen,36623,Eintracht Frankfurt,108685,Ended,finished,2,1,1,Home,Women Bundesliga 25/26,4,
 14297652,YkcsycEc,2025-09-25 17:00:00+00:00,2025-09-25 20:00:00+03:00,Frauen-Bundesliga,810,Germany,RB Leipzig,322623,Hamburger SV,5548,Ended,finished,0,1,2,Away,Women Bundesliga 25/26,4,
 14668698,cUqsaxzb,2025-09-24 18:00:00+00:00,2025-09-24 21:00:00+03:00,Ligue 1,3657,Algeria,JS Kabylie,42202,ES Mostaganem,186100,Ended,finished,1,0,1,Home,Ligue 1 25/26,5,
-14530026,gtubsWVFd,2025-09-26 11:30:00+00:00,2025-09-26 14:30:00+03:00,Premier League,3590,Azerbaijan,İmişli FK,452296,Zirə FK,173406,Not started,notstarted,,,,,Premier League 25/26,6,
+14530026,gtubsWVFd,2025-09-26 11:30:00+00:00,2025-09-26 14:30:00+03:00,Premier League,3590,Azerbaijan,İmişli FK,452296,Zirə FK,173406,Ended,finished,1,1,3,Draw,Premier League 25/26,6,
 14593484,jnqsxjt,2025-09-25 16:00:00+00:00,2025-09-25 19:00:00+03:00,Premier League,4050,Bahrain,Al-Hidd,45472,Al Riffa,40659,Ended,finished,0,0,3,Draw,Premier League 25/26,3,
 14593472,AjtsvUW,2025-09-25 16:00:00+00:00,2025-09-25 19:00:00+03:00,Premier League,4050,Bahrain,Sitra Club,117220,Al Najma Manama,45475,Ended,finished,0,0,3,Draw,Premier League 25/26,3,
 14683087,lrbsfWc,2025-09-24 13:45:00+00:00,2025-09-24 16:45:00+03:00,Vysshaya League,616,Belarus,Smorgon,7305,Dinamo Minsk,3361,Ended,finished,1,2,2,Away,Vysshaya Liga 2025,16,
 14683086,Zqbsgrb,2025-09-24 16:00:00+00:00,2025-09-24 19:00:00+03:00,Vysshaya League,616,Belarus,Gomel,3349,Neman Grodno,3356,Ended,finished,3,1,1,Home,Vysshaya Liga 2025,17,
 13618972,jrbsJec,2025-09-25 15:15:00+00:00,2025-09-25 18:15:00+03:00,Vysshaya League,616,Belarus,Torpedo-BelAZ Zhodino,3359,Naftan Novopolotsk,5234,Ended,finished,4,2,1,Home,Vysshaya Liga 2025,23,
 14598490,QecsFQac,2025-09-25 14:30:00+00:00,2025-09-25 17:30:00+03:00,Parva Liga,232,Bulgaria,Botev Plovdiv,5241,FC CSKA 1948 Sofia,252080,Ended,finished,1,2,2,Away,Parva Liga 25/26,10,True
-13563632,bCzcsqrde,2025-09-26 11:30:00+00:00,2025-09-26 14:30:00+03:00,Chinese League 1,3583,China,Foshan Nanshi,508366,Guangxi Pingguo,311351,Not started,notstarted,,,,,China League 1 2025,24,
-13563634,DAacscmee,2025-09-26 11:30:00+00:00,2025-09-26 14:30:00+03:00,Chinese League 1,3583,China,Nantong Zhiyun,251278,Shaanxi Union FC,510602,Not started,notstarted,,,,,China League 1 2025,24,
-13563635,vCzcszPcd,2025-09-26 11:30:00+00:00,2025-09-26 14:30:00+03:00,Chinese League 1,3583,China,Qingdao Red Lions,311370,Shijiazhuang Gongfu,382024,Not started,notstarted,,,,,China League 1 2025,24,
+13563632,bCzcsqrde,2025-09-26 11:30:00+00:00,2025-09-26 14:30:00+03:00,Chinese League 1,3583,China,Foshan Nanshi,508366,Guangxi Pingguo,311351,Ended,finished,1,2,2,Away,China League 1 2025,24,
+13563634,DAacscmee,2025-09-26 11:30:00+00:00,2025-09-26 14:30:00+03:00,Chinese League 1,3583,China,Nantong Zhiyun,251278,Shaanxi Union FC,510602,Ended,finished,1,1,3,Draw,China League 1 2025,24,
+13563635,vCzcszPcd,2025-09-26 11:30:00+00:00,2025-09-26 14:30:00+03:00,Chinese League 1,3583,China,Qingdao Red Lions,311370,Shijiazhuang Gongfu,382024,Ended,finished,0,1,2,Away,China League 1 2025,24,
 14613594,ftbsBHtb,2025-09-24 16:00:00+00:00,2025-09-24 19:00:00+03:00,1st Division,681,Cyprus,Pafos FC,171626,Enosis Neon Paralimniou,3405,Ended,finished,3,0,1,Home,1st Division 25/26,1,True
 14578542,fUsFmw,2025-09-24 14:00:00+00:00,2025-09-24 17:00:00+03:00,Czech Cup,190,Czech Republic,FC Hlinsko,53130,FK Jablonec,2205,Ended,finished,0,2,2,Away,Czech Cup 25/26,3,
 14578547,FUsEVj,2025-09-24 14:00:00+00:00,2025-09-24 17:00:00+03:00,Czech Cup,190,Czech Republic,FK Frydek Mistek,24779,FK Pardubice,2230,AET,finished,1,2,2,Away,Czech Cup 25/26,3,
@@ -15403,21 +15403,21 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 14313725,RqbsWqb,2025-09-24 16:00:00+00:00,2025-09-24 19:00:00+03:00,Premium Liiga,618,Estonia,Flora Tallinn,3346,FCI Levadia Tallinn,3342,Ended,finished,2,3,2,Away,Premium Liiga 2025,23,True
 14364996,ttcsiYK,2025-09-24 17:00:00+00:00,2025-09-24 20:00:00+03:00,Ykkosliiga,527,Finland,HJK Klubi 04,5918,SJK Akatemia,89908,Ended,finished,1,4,2,Away,Ykkosliiga 2025,22,True
 14275031,rqcsgyc,2025-09-25 17:30:00+00:00,2025-09-25 20:30:00+03:00,Regionalliga West,8364,Germany Amateur,SSVg Velbert,5817,1. FC Bocholt,6156,Ended,finished,1,2,2,Away,Regionalliga West 25/26,10,
-14214696,rrNbstOWd,2025-09-25 08:30:00+00:00,2025-09-25 11:30:00+03:00,Indonesia Super League,4113,Indonesia,Bhayangkara Presisi Indonesia FC,220867,Malut United FC,491968,Ended,finished,0,1,2,Away,Indonesia Super League 25/26,7,
-14214693,DGJslMgc,2025-09-25 12:00:00+00:00,2025-09-25 15:00:00+03:00,Indonesia Super League,4113,Indonesia,PSBS Biak,266861,Madura United FC,86578,Ended,finished,0,0,3,Draw,Indonesia Super League 25/26,7,
-14214694,ZKAsqwJ,2025-09-26 08:30:00+00:00,2025-09-26 11:30:00+03:00,Indonesia Super League,4113,Indonesia,Semen Padang FC,86066,Bali United FC,64299,Not started,notstarted,,,,,Indonesia Super League 25/26,7,
+14214696,rrNbstOWd,2025-09-25 08:30:00+00:00,2025-09-25 11:30:00+03:00,Indonesia Super League,4113,Indonesia,Bhayangkara Presisi Indonesia FC,220867,Malut United FC,491968,Ended,finished,0,1,2,Away,Indonesia Super League 25/26,7,True
+14214693,DGJslMgc,2025-09-25 12:00:00+00:00,2025-09-25 15:00:00+03:00,Indonesia Super League,4113,Indonesia,PSBS Biak,266861,Madura United FC,86578,Ended,finished,0,0,3,Draw,Indonesia Super League 25/26,7,True
+14214694,ZKAsqwJ,2025-09-26 08:30:00+00:00,2025-09-26 11:30:00+03:00,Indonesia Super League,4113,Indonesia,Semen Padang FC,86066,Bali United FC,64299,Ended,finished,1,3,2,Away,Indonesia Super League 25/26,7,
 14552864,pzwsrzw,2025-09-25 13:30:00+00:00,2025-09-25 16:30:00+03:00,Pro League,3625,Iran,Tractor FC,53715,Fajr Sepasi FC,53717,Ended,finished,0,0,3,Draw,Pro League 25/26,5,
 14552862,oLnsjzw,2025-09-25 15:30:00+00:00,2025-09-25 18:30:00+03:00,Pro League,3625,Iran,Persepolis FC,34314,Malavan Bandar Anzali FC,53709,Ended,finished,0,0,3,Draw,Pro League 25/26,5,
 14302537,JmtbsGdcd,2025-09-25 16:30:00+00:00,2025-09-25 19:30:00+03:00,"Serie C, Group A",37884,Italy,Arzignano Valchiampo,170634,Alcione Milano,380181,Ended,finished,1,3,2,Away,"Serie C, Group A 25/26",6,
-14302543,HebsWeb,2025-09-25 16:30:00+00:00,2025-09-25 19:30:00+03:00,"Serie C, Group A",37884,Italy,Aurora Pro Patria,2746,AlbinoLeffe,2732,Ended,finished,0,3,2,Away,"Serie C, Group A 25/26",6,
-14302539,rebsNeb,2025-09-25 16:30:00+00:00,2025-09-25 19:30:00+03:00,"Serie C, Group A",37884,Italy,Cittadella,2717,Lumezzane,2738,Ended,finished,0,1,2,Away,"Serie C, Group A 25/26",6,
-14302541,lAVsHUW,2025-09-25 16:30:00+00:00,2025-09-25 19:30:00+03:00,"Serie C, Group A",37884,Italy,Giana Erminio,117232,Virtus Verona,113761,Ended,finished,1,3,2,Away,"Serie C, Group A 25/26",6,
+14302543,HebsWeb,2025-09-25 16:30:00+00:00,2025-09-25 19:30:00+03:00,"Serie C, Group A",37884,Italy,Aurora Pro Patria,2746,AlbinoLeffe,2732,Ended,finished,0,3,2,Away,"Serie C, Group A 25/26",6,True
+14302539,rebsNeb,2025-09-25 16:30:00+00:00,2025-09-25 19:30:00+03:00,"Serie C, Group A",37884,Italy,Cittadella,2717,Lumezzane,2738,Ended,finished,0,1,2,Away,"Serie C, Group A 25/26",6,True
+14302541,lAVsHUW,2025-09-25 16:30:00+00:00,2025-09-25 19:30:00+03:00,"Serie C, Group A",37884,Italy,Giana Erminio,117232,Virtus Verona,113761,Ended,finished,1,3,2,Away,"Serie C, Group A 25/26",6,True
 14302546,LGosZQue,2025-09-25 16:30:00+00:00,2025-09-25 19:30:00+03:00,"Serie C, Group A",37884,Italy,Renate,36586,Ospitaletto Franciacorta,549599,Ended,finished,1,2,2,Away,"Serie C, Group A 25/26",6,
-14302547,hAVsxEdc,2025-09-25 16:30:00+00:00,2025-09-25 19:30:00+03:00,"Serie C, Group A",37884,Italy,Trento,258972,Pergolettese,113757,Ended,finished,0,0,3,Draw,"Serie C, Group A 25/26",6,
+14302547,hAVsxEdc,2025-09-25 16:30:00+00:00,2025-09-25 19:30:00+03:00,"Serie C, Group A",37884,Italy,Trento,258972,Pergolettese,113757,Ended,finished,0,0,3,Draw,"Serie C, Group A 25/26",6,True
 14302540,xebsyJgd,2025-09-25 18:45:00+00:00,2025-09-25 21:45:00+03:00,"Serie C, Group A",37884,Italy,Dolomiti Bellunesi,391723,L.R. Vicenza,2722,Ended,finished,1,2,2,Away,"Serie C, Group A 25/26",6,
-14302542,zebsGmUi,2025-09-25 18:45:00+00:00,2025-09-25 21:45:00+03:00,"Serie C, Group A",37884,Italy,Inter U23,1110631,Triestina,2724,Ended,finished,2,0,1,Home,"Serie C, Group A 25/26",6,
+14302542,zebsGmUi,2025-09-25 18:45:00+00:00,2025-09-25 21:45:00+03:00,"Serie C, Group A",37884,Italy,Inter U23,1110631,Triestina,2724,Ended,finished,2,0,1,Home,"Serie C, Group A 25/26",6,True
 14302544,ufbsIid,2025-09-25 18:45:00+00:00,2025-09-25 21:45:00+03:00,"Serie C, Group A",37884,Italy,Pro Vercelli,2769,Lecco,7933,Ended,finished,0,1,2,Away,"Serie C, Group A 25/26",6,
-14305367,rfbsQcUi,2025-09-25 18:45:00+00:00,2025-09-25 21:45:00+03:00,"Serie C, Group A",37884,Italy,Union Brescia,1110141,Novara,2767,Ended,finished,1,1,3,Draw,"Serie C, Group A 25/26",6,
+14305367,rfbsQcUi,2025-09-25 18:45:00+00:00,2025-09-25 21:45:00+03:00,"Serie C, Group A",37884,Italy,Union Brescia,1110141,Novara,2767,Ended,finished,1,1,3,Draw,"Serie C, Group A 25/26",6,True
 14303302,lCcsuGr,2025-09-24 16:30:00+00:00,2025-09-24 19:30:00+03:00,"Serie C, Group C",37886,Italy,Cavese,6361,Latina,44069,Ended,finished,0,2,2,Away,"Serie C, Group C 25/26",6,True
 14303303,qebsPGFc,2025-09-24 16:30:00+00:00,2025-09-24 19:30:00+03:00,"Serie C, Group C",37886,Italy,Cosenza,2716,Giugliano,326590,Ended,finished,4,1,1,Home,"Serie C, Group C 25/26",6,True
 14303304,dgbshCw,2025-09-24 16:30:00+00:00,2025-09-24 19:30:00+03:00,"Serie C, Group C",37886,Italy,Foggia,2803,Casertana,53857,Ended,finished,1,1,3,Draw,"Serie C, Group C 25/26",6,True
@@ -15429,7 +15429,7 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 14303301,tebsygUd,2025-09-24 18:45:00+00:00,2025-09-24 21:45:00+03:00,"Serie C, Group C",37886,Italy,Atalanta U23,485323,Crotone,2718,Ended,finished,1,2,2,Away,"Serie C, Group C 25/26",6,True
 14303305,Mcksvrfc,2025-09-24 18:45:00+00:00,2025-09-24 21:45:00+03:00,"Serie C, Group C",37886,Italy,Monopoli,25137,Team Altamura,263370,Ended,finished,1,1,3,Draw,"Serie C, Group C 25/26",6,True
 14628556,mhcsqhc,2025-09-24 14:00:00+00:00,2025-09-24 17:00:00+03:00,Premier League,3103,Kazakhstan,FC Tobol,5362,FC Ordabasy,5366,Ended,finished,1,0,1,Home,Premier League 2025,9,True
-14520613,tzCstXob,2025-09-25 16:00:00+00:00,2025-09-25 19:00:00+03:00,Virsliga,1279,Latvia,RFS,68718,Riga FC,162368,Ended,finished,0,0,3,Draw,Virsliga 2025,27,
+14520613,tzCstXob,2025-09-25 16:00:00+00:00,2025-09-25 19:00:00+03:00,Virsliga,1279,Latvia,RFS,68718,Riga FC,162368,Ended,finished,0,0,3,Draw,Virsliga 2025,27,True
 14623675,TgcsQoH,2025-09-24 16:00:00+00:00,2025-09-24 19:00:00+03:00,A Lyga,1260,Lithuania,FK Kauno Žalgiris,80741,FK Sūduva Marijampolė,5343,Ended,finished,1,1,3,Draw,A Lyga 2025,24,
 14142471,FgcsfAw,2025-09-24 16:45:00+00:00,2025-09-24 19:45:00+03:00,"Premier League, Opening Round",137116,Malta,Birkirkara FC,5330,Naxxar Lions FC,53755,Ended,finished,1,0,1,Home,Premier League 25/26,6,
 14142470,gecsCqy,2025-09-24 16:45:00+00:00,2025-09-24 19:45:00+03:00,"Premier League, Opening Round",137116,Malta,Sliema Wanderers,5206,Gżira United FC,58327,Ended,finished,2,0,1,Home,Premier League 25/26,6,
@@ -15438,7 +15438,7 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 14593861,AuwsHUqb,2025-09-24 16:00:00+00:00,2025-09-24 19:00:00+03:00,Super Liga,3113,Moldova,FC Milsami Orhei,53475,FC Petrocub Hîncesti,167232,Ended,finished,1,1,3,Draw,Super Liga 25/26,4,True
 14742185,mecsnic,2025-09-24 13:30:00+00:00,2025-09-24 16:30:00+03:00,1. MFL,1950,North Macedonia,FK Rabotnički Skopje,5212,KF Shkëndija,5413,Ended,finished,0,1,2,Away,1. MFL 25/26,4,
 13299666,cUzsEJO,2025-09-24 16:00:00+00:00,2025-09-24 19:00:00+03:00,"Toppserien, Women",78,Norway,Vålerenga,62202,Lyn,99229,Ended,finished,2,1,1,Home,"Toppserien, Women 2025",20,True
-13265935,HosOo,2025-09-25 16:00:00+00:00,2025-09-25 19:00:00+03:00,"Toppserien, Women",78,Norway,Kolbotn,739,Stabæk Fotball,732,Ended,finished,1,0,1,Home,"Toppserien, Women 2025",25,
+13265935,HosOo,2025-09-25 16:00:00+00:00,2025-09-25 19:00:00+03:00,"Toppserien, Women",78,Norway,Kolbotn,739,Stabæk Fotball,732,Ended,finished,1,0,1,Home,"Toppserien, Women 2025",25,True
 14592298,myskmo,2025-09-24 16:00:00+00:00,2025-09-24 19:00:00+03:00,NM Cup,123,Norway,Bjarg,35610,Stabæk Fotball,1162,Ended,finished,6,1,1,Home,NM Cup 2026,3,
 14592304,nnseu,2025-09-24 16:00:00+00:00,2025-09-24 19:00:00+03:00,NM Cup,123,Norway,Brattvåg,954,Bryne FK,663,Ended,finished,1,2,2,Away,NM Cup 2026,3,
 14592300,hnsvt,2025-09-24 16:00:00+00:00,2025-09-24 19:00:00+03:00,NM Cup,123,Norway,Egersund,920,Lyn FK,657,Ended,finished,0,1,2,Away,NM Cup 2026,3,
@@ -15464,12 +15464,12 @@ match_id,match_custom_id,date_utc,kickoff_nairobi,league,league_id,country,home_
 14263699,CdrcsUbtc,2025-09-24 10:00:00+00:00,2025-09-24 13:00:00+03:00,"U23 Championship, 1st Phase, South",87630,Portugal,Portimonense U23,292677,Benfica U23,295094,Ended,finished,1,2,2,Away,U23 Liga Revelacao 25/26,6,
 14223674,cAksAOed,2025-09-24 18:45:00+00:00,2025-09-24 21:45:00+03:00,Challenge Cup,1520,Scotland,Edinburgh City F.C.,26252,Celtic B U21,386975,Ended,finished,2,1,1,Home,Challenge Cup 25/26,4,
 14223668,BXsBOed,2025-09-24 18:45:00+00:00,2025-09-24 21:45:00+03:00,Challenge Cup,1520,Scotland,Hamilton Academical,2376,St. Mirren B U21,386976,Ended,finished,3,1,1,Home,Challenge Cup 25/26,4,
-14689646,NkbsHGn,2025-09-25 11:30:00+00:00,2025-09-25 14:30:00+03:00,Premier League,58,Singapore,Tanjong Pagar United,3038,Young Lions,34082,Ended,finished,5,1,1,Home,Premier League 25/26,3,
+14689646,NkbsHGn,2025-09-25 11:30:00+00:00,2025-09-25 14:30:00+03:00,Premier League,58,Singapore,Tanjong Pagar United,3038,Young Lions,34082,Ended,finished,5,1,1,Home,Premier League 25/26,3,True
 13292559,nKsCK,2025-09-24 17:00:00+00:00,2025-09-24 20:00:00+03:00,Superettan,27,Sweden,IK Brage,1777,GIF Sundsvall,1763,Ended,finished,0,1,2,Away,Superettan 2025,24,True
 13292560,mLskM,2025-09-24 17:00:00+00:00,2025-09-24 20:00:00+03:00,Superettan,27,Sweden,IK Oddevold,1860,Falkenbergs FF,1812,Ended,finished,2,2,3,Draw,Superettan 2025,24,True
 13292561,xKsQM,2025-09-24 17:00:00+00:00,2025-09-24 20:00:00+03:00,Superettan,27,Sweden,Landskrona BoIS,1772,Kalmar FF,1891,Ended,finished,0,0,3,Draw,Superettan 2025,24,True
 13292567,tKsbRc,2025-09-24 17:00:00+00:00,2025-09-24 20:00:00+03:00,Superettan,27,Sweden,Örebro SK,1768,Varbergs BoIS,7101,Ended,finished,1,1,3,Draw,Superettan 2025,24,True
-13292564,ULsPM,2025-09-25 17:00:00+00:00,2025-09-25 20:00:00+03:00,Superettan,27,Sweden,Sandvikens IF,1844,Helsingborgs IF,1890,Ended,finished,0,1,2,Away,Superettan 2025,24,
+13292564,ULsPM,2025-09-25 17:00:00+00:00,2025-09-25 20:00:00+03:00,Superettan,27,Sweden,Sandvikens IF,1844,Helsingborgs IF,1890,Ended,finished,0,1,2,Away,Superettan 2025,24,True
 13292565,qKswK,2025-09-25 17:00:00+00:00,2025-09-25 20:00:00+03:00,Superettan,27,Sweden,Trelleborgs FF,1771,Örgryte IS,1766,Ended,finished,0,2,2,Away,Superettan 2025,24,True
 13292566,zKsAK,2025-09-25 17:00:00+00:00,2025-09-25 20:00:00+03:00,Superettan,27,Sweden,Umeå,1774,Västerås SK,1775,Ended,finished,1,2,2,Away,Superettan 2025,24,True
 13292570,LLsLad,2025-09-25 17:00:00+00:00,2025-09-25 20:00:00+03:00,Superettan,27,Sweden,Östersunds FK,1836,Utsiktens BK,7536,Ended,finished,2,1,1,Home,Superettan 2025,24,True
